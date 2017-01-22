@@ -1,0 +1,13 @@
+{
+    "name": "FSEWebChat",
+    "version": "0.0.0",
+    "description": "Web Caht",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "pug": "latest",
+        "mysql":"latest"
+
+    },
+    "author": "Samuel Wasswa"
+}
